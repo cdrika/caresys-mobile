@@ -7,6 +7,7 @@
 *.pfx
 *.keystore
 node_modules/
+.expo/
 build/
 dist/
 coverage/
